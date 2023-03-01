@@ -7,7 +7,7 @@ I'm Ryan, CTO at [The Really Great Teacher Company](https://reallygreatteachers.
 
 I hold a MSc in Physics and Engineering in Medicine from University College London and am a Chartered Global Management Accountant (ACMA, CGMA).
 
-I'm interested in data science, data engineering, operational improvement, automation and getting stuck into succinct work that produces immediate results.
+I'm interested in data science, data engineering, operational improvement, automation and getting stuck into creative work that produces immediate results.
 
 I live in Leeds, UK.
 
